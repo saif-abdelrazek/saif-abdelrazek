@@ -61,5 +61,12 @@
   </a>
 </div>
 
-![](https://hit.yhype.me/github/profile?account_id=177851623)
+
+<div align="center">
+  <img src="https://hit.yhype.me/github/profile?account_id=177851623" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=saifabdelrazek011" alt="Profile Views"/>
+</div>
+
+
+
 
