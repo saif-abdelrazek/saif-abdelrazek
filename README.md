@@ -64,7 +64,7 @@
 
 <div align="center">
   <img src="https://hit.yhype.me/github/profile?account_id=177851623" alt=""/>
-  <img src="https://komarev.com/ghpvc/?username=saif-abdelrazek" alt="Profile Views"/>
+  <img width="1" height="1" src="https://komarev.com/ghpvc/?username=saif-abdelrazek" alt="Profile Views"/>
 </div>
 
 
