@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Saif Abdelrazek and I'm a fullstack developer, from Egypt</h2>
+<h2 align="center">Hi 👋! My name is Saif Abdelrazek (A8K) and I'm a fullstack developer from Egypt</h2>
 
 <h3 align="center">Technologies:</h3>
 <div align="center">
@@ -42,6 +42,15 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/saif-abdelrazek/saif-abdelrazek/output/pacman-contribution-graph.svg">
 </picture>
 
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=saif-abdelrazek&show_icons=true&hide_border=true&bg_color=161B22&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" 
+    alt="GitHub Stats" height="180"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=saif-abdelrazek&layout=compact&hide_border=true&bg_color=161B22&title_color=58A6FF&text_color=C9D1D9" 
+    alt="Top Languages" height="180"/>
+</div>
+
 ---
 
 <h3 align="center">Contact Me:</h3>
@@ -57,12 +66,7 @@
   </a>
 </div>
 
-
 <div align="center">
   <img src="https://hit.yhype.me/github/profile?account_id=177851623" alt=""/>
   <img width="1" height="1" src="https://komarev.com/ghpvc/?username=saif-abdelrazek" alt="Profile Views"/>
 </div>
-
-
-
-
