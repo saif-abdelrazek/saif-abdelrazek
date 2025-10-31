@@ -1,4 +1,5 @@
 <h2 align="center">Hi 👋! My name is Saif Abdelrazek (A8K) and I'm a fullstack developer from Egypt</h2>
+<p align="center">High‑schooler and full‑stack developer from Egypt building modern web apps, APIs, and tools. Active in open‑source and passionate about turning ideas into real impact.</p>
 
 <h3 align="center">Technologies:</h3>
 <div align="center">
@@ -43,12 +44,15 @@
 </picture>
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=saif-abdelrazek&show_icons=true&hide_border=true&bg_color=161B22&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" 
-    alt="GitHub Stats" height="180"/>
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=saif-abdelrazek&layout=compact&hide_border=true&bg_color=161B22&title_color=58A6FF&text_color=C9D1D9" 
-    alt="Top Languages" height="180"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=saif-abdelrazek&show_icons=true&theme=dark&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=saif-abdelrazek&show_icons=true&theme=default&hide_border=true" height="180" alt="GitHub Stats" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=saif-abdelrazek&layout=compact&theme=dark&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saif-abdelrazek&layout=compact&theme=default&hide_border=true" height="180" alt="Top Languages" />
+  </picture>
 </div>
 
 ---
