@@ -10,6 +10,18 @@
 
 ---
 
+<h3 align="center">GitHub Trophies</h3>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=saif-abdelrazek&theme=darkhub&no-frame=true&row=1&column=7">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=saif-abdelrazek&no-frame=true&row=1&column=7">
+  <img src="https://github-profile-trophy.vercel.app/?username=saif-abdelrazek&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</picture>
+</div>
+
+---
+
 <h3 align="center">Technologies I Use</h3>
 
 <div align="center">
@@ -109,7 +121,7 @@
 
 <div align="center">
   <img src="https://hit.yhype.me/github/profile?account_id=177851623" alt=""/>
-  <img width="1" height="1" src="https://komarev.com/ghpvc/?username=saif-abdelrazek" alt="Profile Views"/>
+   <img width="1" height="1" src="https://komarev.com/ghpvc/?username=saif-abdelrazek" alt="Profile Views"/>
   
   <p><em>Building the future, one commit at a time 🚀</em></p>
 </div>
