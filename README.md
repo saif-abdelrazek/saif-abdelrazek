@@ -94,17 +94,6 @@
   </a>
 </div>
 
-<br>
-
-<div align="center">
-  <a href="https://a8k.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-a8k.dev-000000?style=for-the-badge&logo=google-chrome&logoColor=white" height="40" alt="portfolio" />
-  </a>
-  <a href="mailto:saif@saifabdelrazek.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-saif@saifabdelrazek.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="email" />
-  </a>
-</div>
-
 ---
 
 <div align="center">
